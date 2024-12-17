@@ -9,3 +9,5 @@ Airframe for the aircraft will be the Velocity XL, kit produced by Velocity Airc
 * Push/pull rods for control surfaces
 * Joystick on outside of aircarft 
 * Eye catching paint / wrap
+* Control surface position sensing
+* Integrated control locks
