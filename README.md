@@ -14,3 +14,10 @@ Velocity is a canard style experimental aircraft available as a kit from [Veloci
 9. Fixed gear lowers insurance costs and eliminates the possibility of a gear up landing
 
 This is a very long term project as I am not expecting to start construction until I retire.  Planning can carry on until then.
+
+## Repository Organization
+* Code repository - storage of all data, CAD exports, 2D drawings, and calculations
+* Wiki - design log, history of design decisions, images, videos, etc
+* Projects - task tracking
+* Fusion 360 - storage of all 3D CAD files
+
