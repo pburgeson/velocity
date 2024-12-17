@@ -12,5 +12,6 @@ Velocity is a canard style experimental aircraft available as a kit from [Veloci
 7. Styling makes for a unique aircraft
 8. XL gets to a higher TAS than SE and I'm seeking a cross country machine
 9. Fixed gear lowers insurance costs and eliminates the possibility of a gear up landing
+10. Electrical Deicing for leading edges, prop, and windscreen
 
 This is a very long term project as I am not expecting to start construction until I retire.  Planning can carry on until then.
