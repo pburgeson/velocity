@@ -17,7 +17,7 @@ This is a very long term project as I am not expecting to start construction unt
 
 ## Repository Organization
 * Code repository - storage of all data, CAD exports, 2D drawings, and calculations
-* Wiki - design log, history of design decisions, images, videos, etc
+* Wiki - work log, history of design decisions, images, videos, etc
 * Projects - task tracking
 * Fusion 360 - storage of all 3D CAD files
 
