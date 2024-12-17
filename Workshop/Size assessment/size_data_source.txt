@@ -1,0 +1,5 @@
+Started with images from Velocity meant for developing paint scheme:
+https://www.velocityaircraft.com/builders-manual
+
+Then used webplotdigitizer to convert to size measurements
+https://automeris.io/
