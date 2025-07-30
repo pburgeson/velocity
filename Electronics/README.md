@@ -12,3 +12,5 @@ Develop electronics to control and monitor aircraft systems that are not related
 * Constant evaluation of aircraft performance
 * Sensors to output digital data onto communications bus
 * Sensors communicate with robust realtime system
+* Wide angle cameras for video capture
+* Radio and intercom audio capture
