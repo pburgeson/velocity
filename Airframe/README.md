@@ -11,3 +11,4 @@ Airframe for the aircraft will be the Velocity XL, kit produced by Velocity Airc
 * Eye catching paint / wrap
 * Control surface position sensing
 * Integrated control locks
+* Removable door hinge pins (for egress if upside down)
