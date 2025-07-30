@@ -5,3 +5,4 @@
 * Two Com radios
 * Two Nav radios
 * Bluetooth capable audio panel
+* Thermal camera for PFD
