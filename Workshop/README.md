@@ -1,5 +1,13 @@
 # Workshop
-I do not currently have the space to build an aircraft.  A specialized workshop will be constructed for this project.  Design documents will be kept here.  This may be an expansion of the current 12' x 12' workshop
+I do not currently have the space to build an aircraft.  A specialized workshop will be constructed for this project.  Design documents will be kept here.  
+
+# Aircraft Component Size:
+* Fuselage - 15' 6" x 18' 8"
+* Wing - 14' 0" x 7' 10"
+* Conard - 6' 5" x 1' 9"
+
+# Expected Size
+Minimum footprint size would be 20' x 24'.  This would have to allow for the fuselage + 2' all around for walking room.  Wings and canards have a smaller footprint than the fuelage.  This estimate includes the engine and prop mounted to the fuselage.
 
 # Requirements
 * Adequate space for access to all sides of each individual major piece of the aircraft:
@@ -17,7 +25,8 @@ I do not currently have the space to build an aircraft.  A specialized workshop 
 * Overhead lifting capability
 * Substantial overhead light
 * 220 V power available
-* Highly refined dust control methods
+* Air filtration for dust
+* Covers for dust protection for sensative components
 * Copius cabinets for storage
 * Heated and cooled
 * Entire wall to be able to be removed to transport aircraft
