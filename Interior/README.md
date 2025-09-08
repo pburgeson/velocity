@@ -7,3 +7,5 @@ Development and building of all intetior components.  This does not include the 
 * Heated seats
 * Ventilation for all occupants
 * Integrated oxygen system for all occupants
+* Cabin lights in both red and white
+* Individual reading lights, red vs white set by instrument panel
