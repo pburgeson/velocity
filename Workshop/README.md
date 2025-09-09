@@ -23,6 +23,7 @@ Minimum footprint size would be 20' x 24'.  This would have to allow for the fus
   - Computer work station
 * Storage space for entire aircraft in pieces
 * Overhead lifting capability
+* Overhead drop of power and air
 * Substantial overhead light
 * 220 V power available
 * Air filtration for dust
@@ -30,3 +31,5 @@ Minimum footprint size would be 20' x 24'.  This would have to allow for the fus
 * Copius cabinets for storage
 * Heated and cooled
 * Entire wall to be able to be removed to transport aircraft
+* Rolling tool chest with work surface on top
+* Trays to change out tool bench focus - composites/assembly/electrical
