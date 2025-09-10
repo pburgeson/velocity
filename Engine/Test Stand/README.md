@@ -27,3 +27,4 @@ Design and build of test stand for modification of LZ0 engine for use in Velocit
 	* Air flow rate across radiator
 	* Air temperature across radiator
 	* Throttle position
+	* Ambient humidity
